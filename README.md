@@ -4,21 +4,6 @@
 
 The iris dataset is a very popular dateset from the UCI machine learning repository used for evaluating classification methods.
 
-This is a scatterplot of the data pre-classification:
-
-2D:
-
-
-3D:
-
-
-This is a scatterplot of the classification of the irises:
-
-2D:
-
-
-3D:
-
 
 # More Information
 
@@ -31,6 +16,8 @@ https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curv
 https://matplotlib.org/stable/gallery/mplot3d/scatter3d.html#d-scatterplot
 
 https://matplotlib.org/stable/api/toolkits/mplot3d/axes3d.html#plotting
+
+https://archive.ics.uci.edu/dataset/53/iris
 
 https://en.wikipedia.org/wiki/Multilayer_perceptron
 
