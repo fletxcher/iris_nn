@@ -1,6 +1,6 @@
 # iris dataset 
 
-# Introduction
+# Summary
 
 The iris dataset is a very popular dateset from the UCI machine learning repository used for evaluating classification methods.
 The iris dataset is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems". The dataset consists of 50 samples from each of three species of iris (setosa, virginica, and versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. It is a very popular dateset in the UCI machine learning repository used for evaluating classification methods.
