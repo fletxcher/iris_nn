@@ -1,4 +1,5 @@
-# iris dataset 
+# iris_nn
+A simple neural network built to classify irises as one of three species (setosa, virginica, and versicolor).
 
 # Summary
 
