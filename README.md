@@ -2,7 +2,23 @@
 
 # Introduction
 
-The iris dataset is a very popular dateset created 
+The iris dataset is a very popular dateset from the UCI machine learning repository used for evaluating classification methods.
+
+This is a scatterplot of the data pre-classification:
+
+2D:
+![alt text](image.png)
+
+3D:
+![alt text](image-1.png)
+
+This is a scatterplot of the classification of the irises:
+
+2D:
+![alt text](image.png)
+
+3D:
+![alt text](image-1.png)
 
 # More Information
 
