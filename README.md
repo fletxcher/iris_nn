@@ -2,6 +2,8 @@
 
 # Introduction
 
+The iris dataset is a very popular dateset created 
+
 # More Information
 
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
