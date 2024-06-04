@@ -7,18 +7,18 @@ The iris dataset is a very popular dateset from the UCI machine learning reposit
 This is a scatterplot of the data pre-classification:
 
 2D:
-![alt text](image.png)
+
 
 3D:
-![alt text](image-1.png)
+
 
 This is a scatterplot of the classification of the irises:
 
 2D:
-![alt text](image.png)
+
 
 3D:
-![alt text](image-1.png)
+
 
 # More Information
 
